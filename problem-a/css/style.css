@@ -1,0 +1,33 @@
+body {
+  font-size: 16px;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-align: center;
+  color: azure;
+  background-color: dimgrey;
+}
+
+p, ul {
+  line-height: 1.5;
+}
+
+img {
+  max-height: 400px;
+}
+
+iframe {
+  width: 480px;
+  height: 208px;
+}
+
+ul {
+  width: 50%;
+  margin: auto;
+}
+
+a {
+  color: aquamarine;
+}
+
+.important {
+  color: deepskyblue;
+}
